@@ -19,6 +19,4 @@ The project is built using [Unity](https://unity.com) and [Vuforia](https://deve
 
 ## Working
 
-<video src='GetFixed.mov'>
-
-
+https://user-images.githubusercontent.com/88189594/186667696-6f094780-8804-4737-84f1-443964cb6e47.mov
